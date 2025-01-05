@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo.Ai](https://app.leonardo.ai/)
+- [Leonardo.AI](https://app.leonardo.ai/)
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
@@ -40,9 +40,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook com 4 capitulos e 1 conclusao sobre o tema de Ia no mercado online, o ebookk é do nicho de mercado online/digital, o título deve ser simples e curto, e tenha uma temática futuristica                                                              |
+|  título  | Crie um título de um ebook com 4 capitulos e 1 conclusao sobre o tema de IA no mercado online, o ebook é do nicho de mercado online/digital, o título deve ser simples e curto, e tenha uma temática futuristica.                                                              |
 | conteúdo | Faça um texto para cada capitulo e conclusao do ebook, listando os principais exemplos de cada {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos simples , sempre deixe um título sugestivo por tópico                               |
-| ideias   | Me de ideiais de prompts em ingles para criacao de imagens para cada titulo e conclusao,                                                                                                                                                                                       |
+| ideias   | Me de ideiais de prompts em ingles para criacao de imagens para cada titulo e conclusao.                                                                                                                                                                                       |
 
 
 LeonardoAI：
