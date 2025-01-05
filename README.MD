@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo.Ai](https://app.leonardo.ai/)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook com 4 capitulos e 1 conclusao sobre o tema de Ia no mercado online, o ebookk é do nicho de mercado online/digital, o título deve ser simples e curto, e tenha uma temática futuristica                                                              |
+| conteúdo | Faça um texto para cada capitulo e conclusao do ebook, listando os principais exemplos de cada {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos simples , sempre deixe um título sugestivo por tópico                               |
+| ideias   | Me de ideiais de prompts em ingles para criacao de imagens para cada titulo e conclusao,                                                                                                                                                                                       |
 
 
-Midjourney：
+LeonardoAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A futuristic digital marketplace with AI interacting with shopping carts, charts, and robots; vibrant colors and sleek technology design.  |
+| capitulos | A futuristic e-commerce platform powered by AI, with advanced technologies and personalized shopping experiences. An abstract visual of artificial intelligence being applied to e-commerce, marketing, and automation, with glowing neural network nodes and flowing data. An automated warehouse with robots and drones moving products, displaying real-time data and inventory analysis, with a sleek, high-tech environment. A digital marketing dashboard with AI-powered segmentation, showing personalized product recommendations, data analysis graphs, and targeted campaign strategies. A futuristic e-commerce platform powered by AI, with advanced technologies and personalized shopping experiences.  |
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via LeonardoAI
+- Edição por Canva
 
 ## 📚 Materiais
 
@@ -64,29 +68,6 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Daniel](https://github.com/dombolao)
